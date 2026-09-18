@@ -1,2 +1,4 @@
 # Solvent-Flash-points
-Showcasing Data Driven Chemistry final project
+Showcasing Data Driven Chemistry final project - completed in December 2025 
+A solvents flashpoint is the lowest temperature at which a liquid will form an ignitable mixture with air. This is an extremely important chemical feature to consider before working with a solvent in a lab, and a pivotal part of an industrial chemists work. 
+I used python to analyse and summarise large datasets, and plot a range of graphs including fit curves (linear, antoine) and calculating r values. Using a range of chemical techniques and pyhton databases, I predicted how solvent boiling points would change with altitude. Finally I put linear algebra to work by using Principal Component Analysis to: Find the surface area of a molecule; consider the effect of molecular surface area on flashpoint.
